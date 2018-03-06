@@ -33,3 +33,4 @@ develop
 ### Custom Theme
 `/src/layouts/gatstrap.css`
 
+### blog
